@@ -45,9 +45,7 @@ Desktop box is 600w x 450h
          class="object-cover object-[center_30%] sm:h-full sm:max-h-full w-full max-h-75">
   </div>
   <div class="bg-white row-span-6 text-left text-(--text-gray) flex flex-col justify-between p-8">
-    <!--    TODO: Replicate weird spacing between each character -->
     <p class="font-extralight md:text-sm text-xs [letter-spacing:0.2rem] pb-4 sm:pb-0">PERFUME</p>
-    <!--    TODO: On mobile, need to remove large space from line break think this has to do with line-height being unset from move away from TW -->
     <h2 class="font-['Fraunces'] text-(--main-black) [font-size:var(--font-xl-cust)] [line-height:var(--lh-tight)] font-bold pb-4 sm:pb-0">Gabrielle
       Essence Eau De Parfum</h2>
     <p class="md:text-sm text-xs [font-size:clamp(1rem, 0.8rem + 1vw, 3rem)] pb-4 sm:pb-0">A floral, solar and voluptuous
