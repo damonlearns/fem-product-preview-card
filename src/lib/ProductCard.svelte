@@ -38,7 +38,7 @@ Desktop box is 600w x 450h
     class="grid sm:grid-cols-2 sm:grid-rows-6
            sm:max-w-[600px] sm:max-h-[450px] h-full w-full
            sm:aspect-[4/3] bg-white rounded-2xl
-           sm:overflow-hidden border border-b-red-500"
+           sm:overflow-hidden"
 >
   <div class="bg-gray-500 row-span-6 rounded-t-2xl md:rounded-t-none md:rounded-s-2xl overflow-hidden">
     <img src="{productImgLrg}" alt="Product Lg"
